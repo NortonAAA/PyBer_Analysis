@@ -1,5 +1,5 @@
 # PyBer_Analysis
-## Overview of the analysis: Explain the purpose of the new analysis.
+## Overview of the analysis
 The purpose of this analysis is to compare key metrics and categories of data between three types of city types that our organzation services. We wanted to understand the key differences and finally arrive at some recommendations.
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 ### Overall Key Metrics by City Type
